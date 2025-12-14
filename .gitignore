@@ -1,2 +1,5 @@
 venv/
 __pycache__/
+*.pyc
+video_stats.py
+.env
