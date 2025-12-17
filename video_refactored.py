@@ -99,4 +99,4 @@ def extract_video_data(video_ids):
 if __name__ == "__main__":
     playlistID = get_ID()
     video_ids = get_video_ids(playlistID)
-    print(extract_video_data(video_ids))
+    extract_video_data(video_ids)
